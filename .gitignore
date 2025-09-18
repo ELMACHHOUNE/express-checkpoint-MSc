@@ -47,3 +47,7 @@ Thumbs.db
 # Misc
 node-repl-history
 .sass-cache/
+
+
+package-lock.json
+package-lock
